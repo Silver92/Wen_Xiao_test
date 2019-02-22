@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/silver/Desktop/TechnicalTests/Ormuco/QuestionC/LRUCache.cpp" "/Users/silver/Desktop/TechnicalTests/Ormuco/QuestionC/cmake-build-debug/CMakeFiles/QuestionC.dir/LRUCache.cpp.o"
-  "/Users/silver/Desktop/TechnicalTests/Ormuco/QuestionC/Server.cpp" "/Users/silver/Desktop/TechnicalTests/Ormuco/QuestionC/cmake-build-debug/CMakeFiles/QuestionC.dir/Server.cpp.o"
-  "/Users/silver/Desktop/TechnicalTests/Ormuco/QuestionC/main.cpp" "/Users/silver/Desktop/TechnicalTests/Ormuco/QuestionC/cmake-build-debug/CMakeFiles/QuestionC.dir/main.cpp.o"
+  "/Users/silver/Desktop/TechnicalTests/Ormuco/Wen_Xiao_test/QuestionC/LRUCache.cpp" "/Users/silver/Desktop/TechnicalTests/Ormuco/Wen_Xiao_test/QuestionC/cmake-build-debug/CMakeFiles/QuestionC.dir/LRUCache.cpp.o"
+  "/Users/silver/Desktop/TechnicalTests/Ormuco/Wen_Xiao_test/QuestionC/Server.cpp" "/Users/silver/Desktop/TechnicalTests/Ormuco/Wen_Xiao_test/QuestionC/cmake-build-debug/CMakeFiles/QuestionC.dir/Server.cpp.o"
+  "/Users/silver/Desktop/TechnicalTests/Ormuco/Wen_Xiao_test/QuestionC/main.cpp" "/Users/silver/Desktop/TechnicalTests/Ormuco/Wen_Xiao_test/QuestionC/cmake-build-debug/CMakeFiles/QuestionC.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

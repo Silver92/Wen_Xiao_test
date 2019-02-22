@@ -73,11 +73,15 @@ void LRUCache::Sync() {
 }
 
 void LRUCache::Subscribe(LRUCache* cache) {
+    mutex1.lock();
     GetListeners().push_back(cache);
+    mutex1.unlock();
 }
 
 void LRUCache::Unsubscribe(LRUCache* cache) {
+    mutex1.lock();
     GetListeners().remove(cache);
+    mutex1.unlock();
 }
 
 void LRUCache::Save() {

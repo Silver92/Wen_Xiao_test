@@ -1,3 +1,3 @@
-/Users/silver/Desktop/TechnicalTests/Ormuco/QuestionC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/silver/Desktop/TechnicalTests/Ormuco/QuestionC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/silver/Desktop/TechnicalTests/Ormuco/QuestionC/cmake-build-debug/CMakeFiles/QuestionC.dir
+/Users/silver/Desktop/TechnicalTests/Ormuco/Wen_Xiao_test/QuestionC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/silver/Desktop/TechnicalTests/Ormuco/Wen_Xiao_test/QuestionC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/silver/Desktop/TechnicalTests/Ormuco/Wen_Xiao_test/QuestionC/cmake-build-debug/CMakeFiles/QuestionC.dir
