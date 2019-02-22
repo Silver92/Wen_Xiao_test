@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/QuestionC.dir/main.cpp.o CMakeFiles/QuestionC.dir/LRUCache.cpp.o CMakeFiles/QuestionC.dir/Server.cpp.o  -o QuestionC 

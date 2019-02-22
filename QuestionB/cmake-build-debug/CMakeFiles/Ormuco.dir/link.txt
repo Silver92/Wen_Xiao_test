@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Ormuco.dir/GTest.cpp.o CMakeFiles/Ormuco.dir/library.cpp.o  -o Ormuco lib/libgtestd.a lib/libgtest_maind.a lib/libgmockd.a lib/libgmock_maind.a lib/libgmockd.a lib/libgtestd.a 

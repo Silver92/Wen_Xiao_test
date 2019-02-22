@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names    -o GTest lib/libgtestd.a lib/libgtest_maind.a -lgmock -lgmock_main lib/libgtestd.a 
